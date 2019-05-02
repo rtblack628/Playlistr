@@ -14,8 +14,8 @@ public class Song {
     /*
      * Create a new Song object.
      *
-     * @param Title is the title of the song
-     * @param vrtist is the artist of the song
+     * @param title is the title of the song
+     * @param artist is the artist of the song
      * @param image is drawable reference ID that corresponds to the album art
      * */
     public Song(String title, String artist, int imageResourceId)
