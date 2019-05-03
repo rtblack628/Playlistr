@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Playlistr</string>
+    <string name="my_playlist">My Playlist</string>
+    <string name="now_playing">Now Playing</string>
 </resources>
